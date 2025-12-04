@@ -251,16 +251,16 @@
           <mxGeometry x="-69.5" y="1326" width="169" height="44" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-104" value="OmniSeek全外显子组&lt;div&gt;测序检测 Duo&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-69.5" y="1366" width="169" height="44" as="geometry" />
+          <mxGeometry x="-69.5" y="1381" width="169" height="44" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-105" value="OmniSeek全外显子组&lt;div&gt;测序检测 Trio&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-69.5" y="1406" width="169" height="44" as="geometry" />
+          <mxGeometry x="-69.5" y="1421" width="169" height="44" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-106" value="OmniSeek全外显子组&lt;div&gt;测序检测 Quad&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-69.5" y="1446" width="169" height="44" as="geometry" />
+          <mxGeometry x="-69.5" y="1461" width="169" height="44" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-107" value="Junomix全基因组&lt;div&gt;测序检测&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Trio&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-69.5" y="1486" width="169" height="44" as="geometry" />
+          <mxGeometry x="-69.5" y="1501" width="169" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
