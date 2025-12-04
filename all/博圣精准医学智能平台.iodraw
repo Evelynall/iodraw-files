@@ -239,7 +239,7 @@
           <mxGeometry x="130" y="1480" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-145" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-262" y="480" width="169" height="1149" as="geometry" />
+          <mxGeometry x="-262" y="411" width="169" height="1149" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-9" value="胎儿OGM检测-标准版" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-145">
           <mxGeometry width="169" height="30" as="geometry" />
