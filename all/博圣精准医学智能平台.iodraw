@@ -70,9 +70,6 @@
         <mxCell id="FIiAVE5nNBV_So9QTax6-23" value="基础服务层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-400" y="650" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-24" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="1">
-          <mxGeometry x="-293" y="540" width="650" height="200" as="geometry" />
-        </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-25" value="技术层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-390" y="860" width="60" height="30" as="geometry" />
         </mxCell>
@@ -223,8 +220,14 @@
         <mxCell id="FIiAVE5nNBV_So9QTax6-94" value="……" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-13" y="870" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-95" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-223" y="582" width="510" height="116" as="geometry" />
+        <mxCell id="FIiAVE5nNBV_So9QTax6-96" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-293" y="540" width="650" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-24" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="FIiAVE5nNBV_So9QTax6-96">
+          <mxGeometry width="650" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-95" value="" style="group" vertex="1" connectable="0" parent="FIiAVE5nNBV_So9QTax6-96">
+          <mxGeometry x="70" y="42" width="510" height="116" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-28" value="疾病信息查询服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FIiAVE5nNBV_So9QTax6-95">
           <mxGeometry x="130" width="120" height="30" as="geometry" />
