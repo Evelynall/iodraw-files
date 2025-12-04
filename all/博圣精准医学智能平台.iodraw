@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="ro0Va26nh0BpStYfd9nc">
-    <mxGraphModel dx="1328" dy="296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1427" dy="354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -277,13 +277,13 @@
         <mxCell id="svvM-1OO4oBZygmVYjcD-21" value="产前变异位点验证检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-262" y="891" width="169" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-22" value="胎儿OGM检测-标准版" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="svvM-1OO4oBZygmVYjcD-22" value="母体污染检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-262" y="931" width="169" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-23" value="胎儿OGM检测-标准版" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="svvM-1OO4oBZygmVYjcD-23" value="MLPA/MS-MLPA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-262" y="971" width="169" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-24" value="胎儿OGM检测-标准版" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="svvM-1OO4oBZygmVYjcD-24" value="OmniSeek产前核心家系&lt;div&gt;WES检测&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-262" y="1011" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-25" value="胎儿OGM检测-标准版" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
