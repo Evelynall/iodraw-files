@@ -80,22 +80,22 @@
           <mxGeometry x="130" y="872" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-124" value="氨基酸质谱检测-遗传代谢性癫痫方向" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="912" width="169" height="49" as="geometry" />
+          <mxGeometry x="130" y="931" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-125" value="抗癫痫药物血药浓度监测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="952" width="169" height="30" as="geometry" />
+          <mxGeometry x="130" y="971" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-126" value="吡哆醇依赖性癫痫检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="993" width="169" height="30" as="geometry" />
+          <mxGeometry x="130" y="1012" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-127" value="叶酸代谢能力基因检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1033" width="169" height="30" as="geometry" />
+          <mxGeometry x="130" y="1052" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-128" value="JunoArray 60K" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1073" width="169" height="30" as="geometry" />
+          <mxGeometry x="130" y="1092" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-129" value="JunoArray POC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1113" width="169" height="30" as="geometry" />
+          <mxGeometry x="130" y="1132" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-9" value="NIFTY全因1.0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-262" y="412" width="169" height="30" as="geometry" />
