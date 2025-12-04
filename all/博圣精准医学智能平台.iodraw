@@ -119,7 +119,10 @@
           <mxGeometry x="-240" y="840" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-42" value="短读长测序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="840" width="90" height="30" as="geometry" />
+          <mxGeometry x="-10" y="840" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-44" value="短读长测序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="850" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
