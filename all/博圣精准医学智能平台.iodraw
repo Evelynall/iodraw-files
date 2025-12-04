@@ -304,24 +304,6 @@
         <mxCell id="svvM-1OO4oBZygmVYjcD-31" value="新生儿遗传病基因筛查（五联检）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-262" y="1291" width="169" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-32" value="胎儿OGM检测-标准版" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-262" y="1331" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-33" value="胎儿OGM检测-标准版" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-262" y="1371" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-34" value="胎儿OGM检测-标准版" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-262" y="1411" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-35" value="胎儿OGM检测-标准版" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-262" y="1451" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-36" value="胎儿OGM检测-标准版" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-262" y="1491" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-37" value="胎儿OGM检测-标准版" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-262" y="1531" width="169" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-146" value="新生儿筛查" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-217.5" y="1129" width="80" height="30" as="geometry" />
         </mxCell>
