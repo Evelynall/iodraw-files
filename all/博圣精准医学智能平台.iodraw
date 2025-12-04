@@ -142,14 +142,11 @@
         <mxCell id="svvM-1OO4oBZygmVYjcD-112" value="遗传病扩展性携带者筛查(标准版)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="241" width="169" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-113" value="胎儿OGM检测-标准版" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="svvM-1OO4oBZygmVYjcD-113" value="遗传病携带者筛查（十联检）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="281" width="169" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-114" value="胎儿OGM检测-标准版" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="svvM-1OO4oBZygmVYjcD-114" value="JunoScreen RCS夫妻联合筛查" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="322" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-115" value="胎儿OGM检测-标准版" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="362" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-116" value="胎儿OGM检测-标准版" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="402" width="169" height="30" as="geometry" />
@@ -303,6 +300,9 @@
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-146" value="新生儿筛查" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-217.5" y="1254" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svvM-1OO4oBZygmVYjcD-147" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="355" y="348" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
