@@ -214,7 +214,7 @@
         <mxCell id="svvM-1OO4oBZygmVYjcD-90" value="全外显子组测序(双人)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
           <mxGeometry y="522" width="169" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-91" value="全外显子组测序（家系三人）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
+        <mxCell id="svvM-1OO4oBZygmVYjcD-91" value="全外显子组测序(家系三人)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
           <mxGeometry y="563" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-92" value="快速全外显子组（家系）检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
