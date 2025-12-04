@@ -91,7 +91,7 @@
         <mxCell id="svvM-1OO4oBZygmVYjcD-94" value="CNV-seq （1Mb）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-69.5" y="924" width="169" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-95" value="&#xa;&#xa;&lt;table style=&quot;border-collapse:collapse;width:203.28pt;&quot; height=&quot;19&quot; width=&quot;271&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&#xa; &lt;colgroup&gt;&lt;col style=&quot;width:203.25pt;&quot; width=&quot;271&quot;&gt;&#xa; &lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:14.25pt;&quot; height=&quot;19&quot;&gt;&#xa;  &lt;td style=&quot;height:14.25pt;width:203.25pt;&quot; width=&quot;271&quot; height=&quot;19&quot; class=&quot;et2&quot;&gt;热点变异检测&lt;/td&gt;&#xa; &lt;/tr&gt;&#xa;&lt;/tbody&gt;&lt;/table&gt;&#xa;&#xa;&#xa;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="svvM-1OO4oBZygmVYjcD-95" value="热点变异检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-69.5" y="964" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-96" value="胎儿OGM检测-标准版" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
