@@ -137,7 +137,7 @@
           <mxGeometry x="-223" y="870" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-50" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="969" width="650" height="200" as="geometry" />
+          <mxGeometry x="-280" y="969" width="650" height="381" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-51" value="ClinVar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-250" y="1010" width="90" height="30" as="geometry" />
