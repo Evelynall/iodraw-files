@@ -128,7 +128,7 @@
           <mxGeometry x="92" y="830" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-46" value="LC-MS/MS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="870" width="90" height="30" as="geometry" />
+          <mxGeometry x="-118" y="870" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-48" value="基因组学" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="197" y="830" width="90" height="30" as="geometry" />
@@ -249,6 +249,9 @@
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-93" value="……" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="37" y="668" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-94" value="……" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="47" y="678" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
