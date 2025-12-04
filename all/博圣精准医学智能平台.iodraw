@@ -220,10 +220,10 @@
         <mxCell id="svvM-1OO4oBZygmVYjcD-92" value="快速全外显子组(家系)检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
           <mxGeometry y="603" width="169" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-93" value="CNV-seq （100kb）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
+        <mxCell id="svvM-1OO4oBZygmVYjcD-93" value="CNV-seq (100kb)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
           <mxGeometry y="643" width="169" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-94" value="CNV-seq （1Mb）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
+        <mxCell id="svvM-1OO4oBZygmVYjcD-94" value="CNV-seq (1Mb)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
           <mxGeometry y="683" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-95" value="热点变异检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
