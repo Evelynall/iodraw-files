@@ -94,13 +94,13 @@
         <mxCell id="svvM-1OO4oBZygmVYjcD-95" value="热点变异检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-69.5" y="964" width="169" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-96" value="胎儿OGM检测-标准版" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="svvM-1OO4oBZygmVYjcD-96" value="单基因检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-69.5" y="1004" width="169" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-97" value="胎儿OGM检测-标准版" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="svvM-1OO4oBZygmVYjcD-97" value="Panel检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-69.5" y="1045" width="169" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-98" value="胎儿OGM检测-标准版" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="svvM-1OO4oBZygmVYjcD-98" value="WES数据重分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-69.5" y="1085" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-99" value="胎儿OGM检测-标准版" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
