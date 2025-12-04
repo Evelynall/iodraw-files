@@ -47,13 +47,13 @@
           <mxGeometry x="130" y="201" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-112" value="遗传病扩展性携带者筛查&lt;div&gt;(标准版)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="241" width="169" height="30" as="geometry" />
+          <mxGeometry x="130" y="241" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-113" value="遗传病携带者筛查(十联检)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="281" width="169" height="30" as="geometry" />
+          <mxGeometry x="130" y="281" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-114" value="JunoScreen RCS&lt;div&gt;夫妻联合筛查&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="322" width="169" height="30" as="geometry" />
+          <mxGeometry x="130" y="322" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-116" value="AccuSeer全定量代谢组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="402" width="169" height="30" as="geometry" />
