@@ -193,7 +193,7 @@
         <mxCell id="FIiAVE5nNBV_So9QTax6-73" value="BiosanDB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="1006" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-74" value="gnomAD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FIiAVE5nNBV_So9QTax6-74" value="DDD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="1046" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-75" value="HGMD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
