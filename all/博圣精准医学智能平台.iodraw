@@ -190,10 +190,10 @@
         <mxCell id="svvM-1OO4oBZygmVYjcD-82" value="OGM检测-进阶版(单人)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
           <mxGeometry y="201" width="169" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-83" value="OGM检测-进阶版（家系三人）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
+        <mxCell id="svvM-1OO4oBZygmVYjcD-83" value="OGM检测-进阶版(家系三人)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
           <mxGeometry y="241" width="169" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-84" value="OGM检测-标准版（单人）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
+        <mxCell id="svvM-1OO4oBZygmVYjcD-84" value="OGM检测-标准版(单人)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
           <mxGeometry y="281" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-85" value="OGM检测-标准版（夫妻）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
