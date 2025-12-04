@@ -256,7 +256,7 @@
         <mxCell id="svvM-1OO4oBZygmVYjcD-105" value="OmniSeek全外显子组测序检测 Trio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-69.5" y="1406" width="169" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-106" value="OmniSeek全外显子组测序检测 Quad" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="svvM-1OO4oBZygmVYjcD-106" value="OmniSeek全外显子组&lt;div&gt;测序检测 Quad&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-69.5" y="1446" width="169" height="44" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-107" value="Junomix全基因组测序检测&lt;div&gt;Trio&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
