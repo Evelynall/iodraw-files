@@ -130,8 +130,11 @@
         <mxCell id="FIiAVE5nNBV_So9QTax6-46" value="LC-MS/MS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="840" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-48" value="LC-MS/MS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="850" width="90" height="30" as="geometry" />
+        <mxCell id="FIiAVE5nNBV_So9QTax6-48" value="基因组学" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="880" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-49" value="基因组学" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="890" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
