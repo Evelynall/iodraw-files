@@ -250,10 +250,10 @@
         <mxCell id="svvM-1OO4oBZygmVYjcD-103" value="OmniSeek全外显子组测序检测 Singleton" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-69.5" y="1326" width="169" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-104" value="OmniSeek全外显子组测序检测 Duo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="svvM-1OO4oBZygmVYjcD-104" value="OmniSeek全外显子组&lt;div&gt;测序检测 Duo&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-69.5" y="1366" width="169" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-105" value="OmniSeek全外显子组测序检测 Trio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="svvM-1OO4oBZygmVYjcD-105" value="OmniSeek全外显子组&lt;div&gt;测序检测 Trio&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-69.5" y="1406" width="169" height="44" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-106" value="OmniSeek全外显子组&lt;div&gt;测序检测 Quad&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
