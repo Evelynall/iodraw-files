@@ -35,7 +35,7 @@
           <mxGeometry x="-69.5" y="161" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-76" value="遗传代谢病相关基因检测（专家版）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-69.5" y="210" width="169" height="49" as="geometry" />
+          <mxGeometry x="-69.5" y="221" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-109" value="携带者筛查" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="174.5" y="120" width="80" height="30" as="geometry" />
@@ -170,7 +170,7 @@
           <mxGeometry x="174.5" y="362" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-148" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-69.5" y="250" width="169" height="1235" as="geometry" />
+          <mxGeometry x="-69.5" y="261" width="169" height="1235" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-77" value="间期FISH检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
           <mxGeometry width="169" height="30" as="geometry" />
