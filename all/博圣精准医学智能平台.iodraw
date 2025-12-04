@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="VSGKUQD6Wmow4jQwLN0I">
-    <mxGraphModel dx="3125" dy="1358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1930" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,7 +80,7 @@
           <mxGeometry x="-390" y="1350" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-32" value="变异致病性判读、病例查询服务、图片/PDF/Word内容解析&lt;span style=&quot;background-color: initial;&quot;&gt;服务、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;文献/指南/&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;共识搜索服务，结果咨询服务、临床试验查询服务&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="397" y="740" width="430" height="40" as="geometry" />
+          <mxGeometry x="680" y="660" width="430" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-33" value="变异致病性判读" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-622.5" y="1050" width="110" height="30" as="geometry" />
@@ -258,6 +258,9 @@
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-93" value="……" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FIiAVE5nNBV_So9QTax6-95">
           <mxGeometry x="260" y="86" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-97" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-425" y="338" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
