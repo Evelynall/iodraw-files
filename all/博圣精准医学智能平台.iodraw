@@ -25,8 +25,11 @@
         <mxCell id="FIiAVE5nNBV_So9QTax6-7" value="遗传咨询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="202.5" y="140" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-8" value="遗传咨询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FIiAVE5nNBV_So9QTax6-8" value="项目咨询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="202.5" y="180" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-9" value="项目咨询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="202.5" y="220" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
