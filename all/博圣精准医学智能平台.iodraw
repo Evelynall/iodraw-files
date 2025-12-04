@@ -46,6 +46,9 @@
         <mxCell id="FIiAVE5nNBV_So9QTax6-15" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;致病性判读&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="220" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-16" value="检测中" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
