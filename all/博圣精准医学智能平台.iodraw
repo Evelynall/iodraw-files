@@ -172,10 +172,10 @@
         <mxCell id="FIiAVE5nNBV_So9QTax6-66" value="Enseuhle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="1050" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-67" value="HGMD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FIiAVE5nNBV_So9QTax6-67" value="ucsc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="1090" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-68" value="dbSNP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FIiAVE5nNBV_So9QTax6-68" value="……" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="1130" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-69" value="ClinVar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
