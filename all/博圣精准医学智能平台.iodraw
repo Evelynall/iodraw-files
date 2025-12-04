@@ -73,8 +73,11 @@
         <mxCell id="FIiAVE5nNBV_So9QTax6-24" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="1">
           <mxGeometry x="-280" y="540" width="650" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-25" value="基础服务层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-400" y="860" width="80" height="30" as="geometry" />
+        <mxCell id="FIiAVE5nNBV_So9QTax6-25" value="技术层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="860" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-26" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="750" width="650" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
