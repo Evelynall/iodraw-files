@@ -262,8 +262,8 @@
         <mxCell id="FIiAVE5nNBV_So9QTax6-97" value="产前筛查/诊断" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-240" y="350" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-98" value="胎儿OGM检测-标准版" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-238" y="420" width="120" height="40" as="geometry" />
+        <mxCell id="FIiAVE5nNBV_So9QTax6-99" value="胎儿OGM检测-标准版" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="390" width="169" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
