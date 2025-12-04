@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="ro0Va26nh0BpStYfd9nc">
-    <mxGraphModel dx="2720" dy="1215" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3350" dy="1620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,99 +36,6 @@
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-76" value="遗传代谢病相关基因检测（专家版）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-69.5" y="201" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-77" value="间期FISH检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-69.5" y="241" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-78" value="间期FISH快速检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-69.5" y="281" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-79" value="N/C/Q带检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-69.5" y="322" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-80" value="高分辨染色体核型分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-69.5" y="362" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-81" value="常规染色体核型分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-69.5" y="402" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-82" value="OGM检测-进阶版（单人）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-69.5" y="442" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-83" value="OGM检测-进阶版（家系三人）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-69.5" y="482" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-84" value="OGM检测-标准版（单人）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-69.5" y="522" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-85" value="OGM检测-标准版（夫妻）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-69.5" y="563" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-86" value="OGM检测-标准版（家系三人）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-69.5" y="603" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-87" value="OGM检测-FSHD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-69.5" y="643" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-88" value="快速全基因组测序（家系）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-69.5" y="683" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-89" value="全外显子组测序（单人）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-69.5" y="723" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-90" value="全外显子组测序（双人）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-69.5" y="763" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-91" value="全外显子组测序（家系三人）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-69.5" y="804" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-92" value="快速全外显子组（家系）检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-69.5" y="844" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-93" value="CNV-seq （100kb）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-69.5" y="884" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-94" value="CNV-seq （1Mb）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-69.5" y="924" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-95" value="热点变异检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-69.5" y="964" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-96" value="单基因检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-69.5" y="1004" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-97" value="Panel检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-69.5" y="1045" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-98" value="WES数据重分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-69.5" y="1085" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-99" value="WGS数据重分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-69.5" y="1125" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-100" value="线粒体基因组测序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-69.5" y="1165" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-101" value="MLPA/MS-MLPA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-69.5" y="1205" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-102" value="OmniSeek核心家系全外检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-69.5" y="1245" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-103" value="OmniSeek全外显子组测序检测 Singleton" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-69.5" y="1286" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-104" value="OmniSeek全外显子组测序检测 Duo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-69.5" y="1326" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-105" value="OmniSeek全外显子组测序检测 Trio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-69.5" y="1366" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-106" value="OmniSeek全外显子组测序检测 Quad" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-69.5" y="1406" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-107" value="Junomix全基因组测序检测 Trio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-69.5" y="1446" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-109" value="携带者筛查" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="174.5" y="120" width="80" height="30" as="geometry" />
@@ -261,6 +168,102 @@
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-147" value="其他产品" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="174.5" y="362" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svvM-1OO4oBZygmVYjcD-148" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-69.5" y="241" width="169" height="1235" as="geometry" />
+        </mxCell>
+        <mxCell id="svvM-1OO4oBZygmVYjcD-77" value="间期FISH检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
+          <mxGeometry width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svvM-1OO4oBZygmVYjcD-78" value="间期FISH快速检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
+          <mxGeometry y="40" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svvM-1OO4oBZygmVYjcD-79" value="N/C/Q带检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
+          <mxGeometry y="81" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svvM-1OO4oBZygmVYjcD-80" value="高分辨染色体核型分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
+          <mxGeometry y="121" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svvM-1OO4oBZygmVYjcD-81" value="常规染色体核型分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
+          <mxGeometry y="161" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svvM-1OO4oBZygmVYjcD-82" value="OGM检测-进阶版（单人）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
+          <mxGeometry y="201" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svvM-1OO4oBZygmVYjcD-83" value="OGM检测-进阶版（家系三人）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
+          <mxGeometry y="241" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svvM-1OO4oBZygmVYjcD-84" value="OGM检测-标准版（单人）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
+          <mxGeometry y="281" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svvM-1OO4oBZygmVYjcD-85" value="OGM检测-标准版（夫妻）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
+          <mxGeometry y="322" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svvM-1OO4oBZygmVYjcD-86" value="OGM检测-标准版（家系三人）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
+          <mxGeometry y="362" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svvM-1OO4oBZygmVYjcD-87" value="OGM检测-FSHD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
+          <mxGeometry y="402" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svvM-1OO4oBZygmVYjcD-88" value="快速全基因组测序（家系）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
+          <mxGeometry y="442" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svvM-1OO4oBZygmVYjcD-89" value="全外显子组测序（单人）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
+          <mxGeometry y="482" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svvM-1OO4oBZygmVYjcD-90" value="全外显子组测序（双人）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
+          <mxGeometry y="522" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svvM-1OO4oBZygmVYjcD-91" value="全外显子组测序（家系三人）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
+          <mxGeometry y="563" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svvM-1OO4oBZygmVYjcD-92" value="快速全外显子组（家系）检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
+          <mxGeometry y="603" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svvM-1OO4oBZygmVYjcD-93" value="CNV-seq （100kb）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
+          <mxGeometry y="643" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svvM-1OO4oBZygmVYjcD-94" value="CNV-seq （1Mb）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
+          <mxGeometry y="683" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svvM-1OO4oBZygmVYjcD-95" value="热点变异检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
+          <mxGeometry y="723" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svvM-1OO4oBZygmVYjcD-96" value="单基因检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
+          <mxGeometry y="763" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svvM-1OO4oBZygmVYjcD-97" value="Panel检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
+          <mxGeometry y="804" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svvM-1OO4oBZygmVYjcD-98" value="WES数据重分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
+          <mxGeometry y="844" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svvM-1OO4oBZygmVYjcD-99" value="WGS数据重分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
+          <mxGeometry y="884" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svvM-1OO4oBZygmVYjcD-100" value="线粒体基因组测序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
+          <mxGeometry y="924" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svvM-1OO4oBZygmVYjcD-101" value="MLPA/MS-MLPA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
+          <mxGeometry y="964" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svvM-1OO4oBZygmVYjcD-102" value="OmniSeek核心家系全外检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
+          <mxGeometry y="1004" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svvM-1OO4oBZygmVYjcD-103" value="OmniSeek全外显子组测序检测 Singleton" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
+          <mxGeometry y="1045" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svvM-1OO4oBZygmVYjcD-104" value="OmniSeek全外显子组测序检测 Duo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
+          <mxGeometry y="1085" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svvM-1OO4oBZygmVYjcD-105" value="OmniSeek全外显子组测序检测 Trio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
+          <mxGeometry y="1125" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svvM-1OO4oBZygmVYjcD-106" value="OmniSeek全外显子组测序检测 Quad" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
+          <mxGeometry y="1165" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svvM-1OO4oBZygmVYjcD-107" value="Junomix全基因组测序检测 Trio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svvM-1OO4oBZygmVYjcD-148">
+          <mxGeometry y="1205" width="169" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
