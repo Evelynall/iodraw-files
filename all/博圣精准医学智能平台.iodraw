@@ -11,7 +11,7 @@
           <mxGeometry x="-280" y="110" width="650" height="200" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-3" value="引用层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="210" width="60" height="30" as="geometry" />
+          <mxGeometry x="-380" y="195" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-4" value="遗传咨询、&lt;div&gt;项目资讯、&lt;/div&gt;&lt;div&gt;疾病介绍、&lt;/div&gt;&lt;div&gt;技术介绍等&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-460" y="515" width="105" height="90" as="geometry" />
@@ -60,6 +60,9 @@
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-20" value="……" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-207.5" y="240" width="177.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-21" value="引用层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="205" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
