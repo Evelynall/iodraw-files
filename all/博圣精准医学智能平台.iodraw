@@ -28,8 +28,8 @@
         <mxCell id="svvM-1OO4oBZygmVYjcD-8" value="SNP-Array芯片检测（Cytoscan750K）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-262" y="357" width="169" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="svvM-1OO4oBZygmVYjcD-74" value="产前筛查/诊断" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-35" y="120" width="100" height="30" as="geometry" />
+        <mxCell id="svvM-1OO4oBZygmVYjcD-74" value="遗传病分子诊断" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="120" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-75" value="胎儿OGM检测-标准版" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-69.5" y="161" width="169" height="30" as="geometry" />
