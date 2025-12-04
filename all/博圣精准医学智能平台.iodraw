@@ -94,8 +94,8 @@
         <mxCell id="FIiAVE5nNBV_So9QTax6-32" value="变异致病性判读、病例查询服务、图片/PDF/Word内容解析&lt;div&gt;服务 文献/指南/共识搜索服务，结果咨询服务、临床试验查询服务&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-660" y="710" width="370" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-33" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-685" y="628" width="50" height="30" as="geometry" />
+        <mxCell id="FIiAVE5nNBV_So9QTax6-33" value="变异致病性判读" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-222.5" y="620" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
