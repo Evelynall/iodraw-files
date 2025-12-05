@@ -19,16 +19,16 @@
         <mxCell id="FIiAVE5nNBV_So9QTax6-4" value="遗传咨询、&lt;div&gt;项目资讯、&lt;/div&gt;&lt;div&gt;疾病介绍、&lt;/div&gt;&lt;div&gt;技术介绍等&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-620" y="507" width="105" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-5" value="检测前" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#5C6CFF;" vertex="1" parent="1">
+        <mxCell id="FIiAVE5nNBV_So9QTax6-5" value="检测前" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#BB9EFF;" vertex="1" parent="1">
           <mxGeometry x="-153" y="134" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-11" value="检测中" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#5C6CFF;" vertex="1" parent="1">
+        <mxCell id="FIiAVE5nNBV_So9QTax6-11" value="检测中" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#BB9EFF;" vertex="1" parent="1">
           <mxGeometry x="58" y="134" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-12" value="数据分析，变异排序、致病性判读" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-740" y="384" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-16" value="检测后" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#5C6CFF;" vertex="1" parent="1">
+        <mxCell id="FIiAVE5nNBV_So9QTax6-16" value="检测后" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#BB9EFF;" vertex="1" parent="1">
           <mxGeometry x="231" y="134" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-23" value="基础服务层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#852D4D;" vertex="1" parent="1">
