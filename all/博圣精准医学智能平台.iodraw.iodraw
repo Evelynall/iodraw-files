@@ -14,7 +14,7 @@
           <mxGeometry x="-280" y="110" width="650" height="200" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-3" value="引用层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-380" y="110" width="60" height="30" as="geometry" />
+          <mxGeometry x="-370" y="110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-4" value="遗传咨询、&lt;div&gt;项目资讯、&lt;/div&gt;&lt;div&gt;疾病介绍、&lt;/div&gt;&lt;div&gt;技术介绍等&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-620" y="507" width="105" height="90" as="geometry" />
@@ -510,6 +510,9 @@
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-193" value="Junomix全基因组&lt;div&gt;测序检测&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Trio&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="1">
           <mxGeometry x="-38.5" y="1775" width="169" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.062;entryY=0.075;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#B58AFF;" edge="1" parent="1" source="FIiAVE5nNBV_So9QTax6-3" target="FIiAVE5nNBV_So9QTax6-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
