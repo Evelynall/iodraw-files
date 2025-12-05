@@ -25,8 +25,11 @@
         <mxCell id="FIiAVE5nNBV_So9QTax6-25" value="技术层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-370" y="2094" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FIiAVE5nNBV_So9QTax6-27" target="FIiAVE5nNBV_So9QTax6-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-27" value="数据层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="2361" width="60" height="30" as="geometry" />
+          <mxGeometry x="-370" y="2290" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-32" value="变异致病性判读、病例查询服务、图片/PDF/Word内容解析&lt;span style=&quot;background-color: initial;&quot;&gt;服务、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;文献/指南/&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;共识搜索服务，结果咨询服务、临床试验查询服务&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="710" y="161" width="430" height="40" as="geometry" />
