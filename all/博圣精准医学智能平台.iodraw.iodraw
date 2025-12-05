@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="VSGKUQD6Wmow4jQwLN0I">
-    <mxGraphModel dx="1615" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1976" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -174,39 +174,6 @@
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-108" value="产品层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FAFAFA;" vertex="1" parent="1">
           <mxGeometry x="-370" y="326" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-24" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;fillColor=#360F1C;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="1874" width="650" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-28" value="疾病信息查询服务" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852D4D;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="1916" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-30" value="标准化表型提取" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852D4D;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="1916" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-31" value="变异致病性判读" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852D4D;" vertex="1" parent="1">
-          <mxGeometry x="50" y="1916" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-87" value="病例查询服务" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852D4D;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1916" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-88" value="图片/PDF/Word 内容解析服务" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852D4D;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="1959" width="190" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-89" value="文献/指南/共识 搜索服务" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852D4D;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="1959" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-90" value="结果查询服务" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852D4D;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1959" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-91" value="临床试验查询服务" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852D4D;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="2002" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-92" value="标准化表型提取" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852D4D;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="2002" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-93" value="……" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852D4D;" vertex="1" parent="1">
-          <mxGeometry x="50" y="2002" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.062;entryY=0.075;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#B58AFF;" edge="1" parent="1" source="FIiAVE5nNBV_So9QTax6-3" target="FIiAVE5nNBV_So9QTax6-2">
           <mxGeometry relative="1" as="geometry" />
@@ -519,6 +486,39 @@
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.123;entryY=0.075;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF6B9C;" edge="1" parent="1" source="FIiAVE5nNBV_So9QTax6-23" target="FIiAVE5nNBV_So9QTax6-24">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-24" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;fillColor=#360F1C;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="1874" width="650" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-28" value="疾病信息查询服务" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852D4D;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1916" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-30" value="标准化表型提取" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852D4D;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="1916" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-31" value="变异致病性判读" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852D4D;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1916" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-87" value="病例查询服务" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852D4D;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1916" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-88" value="图片/PDF/Word 内容解析服务" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852D4D;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="1959" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-89" value="文献/指南/共识 搜索服务" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852D4D;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="1959" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-90" value="结果查询服务" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852D4D;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1959" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-91" value="临床试验查询服务" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852D4D;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="2002" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-92" value="标准化表型提取" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852D4D;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="2002" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-93" value="……" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852D4D;" vertex="1" parent="1">
+          <mxGeometry x="50" y="2002" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
