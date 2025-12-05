@@ -49,7 +49,7 @@
         <mxCell id="FIiAVE5nNBV_So9QTax6-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.123;entryY=0.075;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF6B9C;" edge="1" parent="1" source="FIiAVE5nNBV_So9QTax6-23" target="FIiAVE5nNBV_So9QTax6-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-24" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;fillColor=#210911;" vertex="1" parent="1">
+        <mxCell id="FIiAVE5nNBV_So9QTax6-24" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;fillColor=#091421;" vertex="1" parent="1">
           <mxGeometry x="-290" y="1874" width="650" height="200" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-28" value="疾病信息查询服务" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#591E34;" vertex="1" parent="1">
