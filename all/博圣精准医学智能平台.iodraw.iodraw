@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="VSGKUQD6Wmow4jQwLN0I">
-    <mxGraphModel dx="2949" dy="1254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2026" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -126,24 +126,6 @@
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-118" value="遗传代谢病相关基因检测&lt;div&gt;（专家版）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="1">
           <mxGeometry x="-38.5" y="455" width="169" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-119" value="携带者筛查" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;fontColor=#FF5226;" vertex="1" parent="1">
-          <mxGeometry x="-415.5" y="345.5" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-120" value="OGM检测-进阶版（夫妻）" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-460" y="386.5" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-121" value="遗传病扩展性携带者筛查&lt;div&gt;(进阶版)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-460" y="426.5" width="169" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-122" value="遗传病扩展性携带者筛查&lt;div&gt;(标准版)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-460" y="485.5" width="169" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-123" value="遗传病携带者筛查(十联检)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-460" y="545.5" width="169" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-124" value="JunoScreen RCS&lt;div&gt;夫妻联合筛查&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-460" y="605.5" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-125" value="AccuSeer全定量代谢组" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="1">
           <mxGeometry x="161" y="774" width="169" height="30" as="geometry" />
@@ -525,6 +507,27 @@
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-86" value="……" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#AD1C1C;" vertex="1" parent="1">
           <mxGeometry x="197" y="2583" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-207" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-460" y="345.5" width="169" height="309" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-119" value="携带者筛查" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;fontColor=#FF5226;" vertex="1" parent="FIiAVE5nNBV_So9QTax6-207">
+          <mxGeometry x="44.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-120" value="OGM检测-进阶版（夫妻）" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="FIiAVE5nNBV_So9QTax6-207">
+          <mxGeometry y="41" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-121" value="遗传病扩展性携带者筛查&lt;div&gt;(进阶版)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="FIiAVE5nNBV_So9QTax6-207">
+          <mxGeometry y="81" width="169" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-122" value="遗传病扩展性携带者筛查&lt;div&gt;(标准版)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="FIiAVE5nNBV_So9QTax6-207">
+          <mxGeometry y="140" width="169" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-123" value="遗传病携带者筛查(十联检)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="FIiAVE5nNBV_So9QTax6-207">
+          <mxGeometry y="200" width="169" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-124" value="JunoScreen RCS&lt;div&gt;夫妻联合筛查&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="FIiAVE5nNBV_So9QTax6-207">
+          <mxGeometry y="260" width="169" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
