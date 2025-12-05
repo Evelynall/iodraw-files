@@ -19,16 +19,16 @@
         <mxCell id="FIiAVE5nNBV_So9QTax6-12" value="数据分析，变异排序、致病性判读" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-740" y="384" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-23" value="基础服务层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#852D4D;" vertex="1" parent="1">
+        <mxCell id="FIiAVE5nNBV_So9QTax6-23" value="基础服务层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-390" y="1874" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-25" value="技术层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#D9D9D9;" vertex="1" parent="1">
+        <mxCell id="FIiAVE5nNBV_So9QTax6-25" value="技术层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-370" y="2194" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-26" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="1">
           <mxGeometry x="-280" y="2094" width="650" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-27" value="数据层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#D9D9D9;" vertex="1" parent="1">
+        <mxCell id="FIiAVE5nNBV_So9QTax6-27" value="数据层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-370" y="2385" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-32" value="变异致病性判读、病例查询服务、图片/PDF/Word内容解析&lt;span style=&quot;background-color: initial;&quot;&gt;服务、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;文献/指南/&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;共识搜索服务，结果咨询服务、临床试验查询服务&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
