@@ -158,7 +158,7 @@
           <mxGeometry x="-118" y="1412" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-68" value="……" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-114" y="1452" width="90" height="30" as="geometry" />
+          <mxGeometry x="-118" y="1452" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-69" value="Orphanet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-13" y="1332" width="90" height="30" as="geometry" />
@@ -170,7 +170,7 @@
           <mxGeometry x="-13" y="1412" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-72" value="HPO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-4" y="1452" width="90" height="30" as="geometry" />
+          <mxGeometry x="-13" y="1452" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-73" value="BiosanDB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="92" y="1332" width="90" height="30" as="geometry" />
@@ -182,7 +182,7 @@
           <mxGeometry x="92" y="1412" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-76" value="MyGene2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="106" y="1452" width="90" height="30" as="geometry" />
+          <mxGeometry x="92" y="1452" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-77" value="OpenAssess" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="197" y="1332" width="90" height="30" as="geometry" />
@@ -197,7 +197,7 @@
           <mxGeometry x="197" y="1452" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-81" value="……" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-4" y="1492" width="90" height="30" as="geometry" />
+          <mxGeometry x="-13" y="1492" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-82" value="MAVEDB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="106" y="1492" width="90" height="30" as="geometry" />
