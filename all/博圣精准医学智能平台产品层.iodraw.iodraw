@@ -152,19 +152,19 @@
           <mxGeometry x="-612" y="1108" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-28" value="新生儿串联质谱检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1205" width="169" height="30" as="geometry" />
+          <mxGeometry x="-220" y="160" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-29" value="新生儿遗传病基因筛查专家版（专家版）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1245" width="169" height="49" as="geometry" />
+          <mxGeometry x="-220" y="200" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-30" value="NeoSeqTM新生儿&lt;div&gt;遗传病基因筛查&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1304" width="169" height="51" as="geometry" />
+          <mxGeometry x="-220" y="259" width="169" height="51" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-31" value="新生儿遗传病基因筛查&lt;div&gt;（五联检）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1365" width="169" height="51" as="geometry" />
+          <mxGeometry x="-220" y="320" width="169" height="51" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-146" value="新生儿筛查" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="304.5" y="1163" width="80" height="30" as="geometry" />
+          <mxGeometry x="-175.5" y="118" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-147" value="其他产品" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-175.5" y="498" width="70" height="30" as="geometry" />
