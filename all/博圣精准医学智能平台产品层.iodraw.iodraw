@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="ro0Va26nh0BpStYfd9nc">
-    <mxGraphModel dx="5424" dy="2717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4275" dy="2038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -467,55 +467,55 @@
           <mxGeometry x="260.5" y="804" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-217" value="全外显子组测序(家系三人)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260.5" y="845" width="169" height="30" as="geometry" />
+          <mxGeometry x="450" y="162" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-218" value="快速全外显子组(家系)检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260.5" y="885" width="169" height="30" as="geometry" />
+          <mxGeometry x="450" y="202" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-219" value="CNV-seq (100kb)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260.5" y="925" width="169" height="30" as="geometry" />
+          <mxGeometry x="450" y="242" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-220" value="CNV-seq (1Mb)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260.5" y="965" width="169" height="30" as="geometry" />
+          <mxGeometry x="450" y="282" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-221" value="热点变异检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260.5" y="1005" width="169" height="30" as="geometry" />
+          <mxGeometry x="450" y="322" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-222" value="单基因检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260.5" y="1045" width="169" height="30" as="geometry" />
+          <mxGeometry x="450" y="362" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-223" value="Panel检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260.5" y="1086" width="169" height="30" as="geometry" />
+          <mxGeometry x="450" y="403" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-224" value="WES数据重分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260.5" y="1126" width="169" height="30" as="geometry" />
+          <mxGeometry x="450" y="443" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-225" value="WGS数据重分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260.5" y="1166" width="169" height="30" as="geometry" />
+          <mxGeometry x="450" y="483" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-226" value="线粒体基因组测序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260.5" y="1206" width="169" height="30" as="geometry" />
+          <mxGeometry x="450" y="523" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-227" value="MLPA/MS-MLPA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260.5" y="1246" width="169" height="30" as="geometry" />
+          <mxGeometry x="450" y="563" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-228" value="OmniSeek核心家系全外检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260.5" y="1286" width="169" height="30" as="geometry" />
+          <mxGeometry x="450" y="603" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-229" value="OmniSeek全外显子组&lt;div&gt;测序检测 Singleton&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260.5" y="1327" width="169" height="44" as="geometry" />
+          <mxGeometry x="450" y="644" width="169" height="44" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-230" value="OmniSeek全外显子组&lt;div&gt;测序检测 Duo&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260.5" y="1381" width="169" height="44" as="geometry" />
+          <mxGeometry x="450" y="698" width="169" height="44" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-231" value="OmniSeek全外显子组&lt;div&gt;测序检测 Trio&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260.5" y="1435" width="169" height="44" as="geometry" />
+          <mxGeometry x="450" y="752" width="169" height="44" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-232" value="OmniSeek全外显子组&lt;div&gt;测序检测 Quad&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260.5" y="1489" width="169" height="44" as="geometry" />
+          <mxGeometry x="450" y="806" width="169" height="44" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-233" value="Junomix全基因组&lt;div&gt;测序检测&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Trio&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260.5" y="1542" width="169" height="44" as="geometry" />
+          <mxGeometry x="450" y="859" width="169" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
