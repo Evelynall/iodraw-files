@@ -254,262 +254,262 @@
           <mxGeometry x="260" y="86" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-108" value="产品层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="523" width="60" height="30" as="geometry" />
+          <mxGeometry x="560" y="423" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-109" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="430" width="650" height="1528" as="geometry" />
+          <mxGeometry x="650" y="330" width="650" height="1528" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-110" value="产前筛查/诊断" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1392.5" y="458" width="100" height="30" as="geometry" />
+          <mxGeometry x="732.5" y="358" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-111" value="胎儿OGM检测-标准版" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1358" y="499" width="169" height="30" as="geometry" />
+          <mxGeometry x="698" y="399" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-112" value="快速全基因组测序(产前)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1358" y="539" width="169" height="30" as="geometry" />
+          <mxGeometry x="698" y="439" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-113" value="产前全外显子组基因检测&lt;div&gt;（家系）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1358" y="580" width="169" height="48" as="geometry" />
+          <mxGeometry x="698" y="480" width="169" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-114" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;SNP-Array芯片检测&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（CytoscanHD）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1358" y="639" width="169" height="45" as="geometry" />
+          <mxGeometry x="698" y="539" width="169" height="45" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-115" value="SNP-Array芯片检测（Cytoscan750K）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1358" y="695" width="169" height="44" as="geometry" />
+          <mxGeometry x="698" y="595" width="169" height="44" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-116" value="遗传病分子诊断" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1580" y="458" width="110" height="30" as="geometry" />
+          <mxGeometry x="920" y="358" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-117" value="遗传代谢病相关基因检测&lt;div&gt;（基础版）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550.5" y="499" width="169" height="49" as="geometry" />
+          <mxGeometry x="890.5" y="399" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-118" value="遗传代谢病相关基因检测&lt;div&gt;（专家版）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550.5" y="559" width="169" height="49" as="geometry" />
+          <mxGeometry x="890.5" y="459" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-119" value="携带者筛查" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1402.5" y="1566" width="80" height="30" as="geometry" />
+          <mxGeometry x="742.5" y="1466" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-120" value="OGM检测-进阶版（夫妻）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1358" y="1607" width="169" height="30" as="geometry" />
+          <mxGeometry x="698" y="1507" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-121" value="遗传病扩展性携带者筛查&lt;div&gt;(进阶版)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1358" y="1647" width="169" height="49" as="geometry" />
+          <mxGeometry x="698" y="1547" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-122" value="遗传病扩展性携带者筛查&lt;div&gt;(标准版)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1358" y="1706" width="169" height="49" as="geometry" />
+          <mxGeometry x="698" y="1606" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-123" value="遗传病携带者筛查(十联检)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1358" y="1766" width="169" height="49" as="geometry" />
+          <mxGeometry x="698" y="1666" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-124" value="JunoScreen RCS&lt;div&gt;夫妻联合筛查&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1358" y="1826" width="169" height="49" as="geometry" />
+          <mxGeometry x="698" y="1726" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-125" value="AccuSeer全定量代谢组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="878" width="169" height="30" as="geometry" />
+          <mxGeometry x="1090" y="778" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-126" value="遗传病扩展性携带者筛查&lt;div&gt;（消费版）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="918" width="169" height="49" as="geometry" />
+          <mxGeometry x="1090" y="818" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-127" value="氨基酸质谱检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="977" width="169" height="30" as="geometry" />
+          <mxGeometry x="1090" y="877" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-128" value="尿有机酸检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="1017" width="169" height="30" as="geometry" />
+          <mxGeometry x="1090" y="917" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-129" value="21-羟化酶缺乏症检测&lt;div&gt;（UPLC-MS/MS法）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="1058" width="169" height="49" as="geometry" />
+          <mxGeometry x="1090" y="958" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-130" value="先天性肾上腺皮质增生症分型辅助诊断检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="1119" width="169" height="49" as="geometry" />
+          <mxGeometry x="1090" y="1019" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-131" value="血清脂肪酸质谱检测&lt;div&gt;（UPLC-MS/MS法）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="1178" width="169" height="49" as="geometry" />
+          <mxGeometry x="1090" y="1078" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-132" value="甲基丙二酸血症/同型半胱氨酸血症质谱检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="1240" width="169" height="49" as="geometry" />
+          <mxGeometry x="1090" y="1140" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-133" value="氨基酸质谱检测-遗传代谢性癫痫方向" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="1300" width="169" height="49" as="geometry" />
+          <mxGeometry x="1090" y="1200" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-134" value="抗癫痫药物血药浓度监测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="1361" width="169" height="30" as="geometry" />
+          <mxGeometry x="1090" y="1261" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-135" value="吡哆醇依赖性癫痫检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="1402" width="169" height="30" as="geometry" />
+          <mxGeometry x="1090" y="1302" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-136" value="叶酸代谢能力基因检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="1442" width="169" height="30" as="geometry" />
+          <mxGeometry x="1090" y="1342" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-137" value="JunoArray 60K" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="1482" width="169" height="30" as="geometry" />
+          <mxGeometry x="1090" y="1382" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-138" value="JunoArray POC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="1522" width="169" height="30" as="geometry" />
+          <mxGeometry x="1090" y="1422" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-139" value="NIFTY全因1.0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1358" y="750" width="169" height="30" as="geometry" />
+          <mxGeometry x="698" y="650" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-140" value="NIPT-Pro" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1358" y="790" width="169" height="30" as="geometry" />
+          <mxGeometry x="698" y="690" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-141" value="NIPT&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1358" y="830" width="169" height="30" as="geometry" />
+          <mxGeometry x="698" y="730" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-142" value="WES数据重分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1358" y="870" width="169" height="30" as="geometry" />
+          <mxGeometry x="698" y="770" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-143" value="WGS数据重分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1358" y="910" width="169" height="30" as="geometry" />
+          <mxGeometry x="698" y="810" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-144" value="间期FISH检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1358" y="950" width="169" height="30" as="geometry" />
+          <mxGeometry x="698" y="850" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-145" value="间期FISH快速检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1358" y="990" width="169" height="30" as="geometry" />
+          <mxGeometry x="698" y="890" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-146" value="N/C/Q带检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1358" y="1030" width="169" height="30" as="geometry" />
+          <mxGeometry x="698" y="930" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-147" value="高分辨染色体核型分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1358" y="1070" width="169" height="30" as="geometry" />
+          <mxGeometry x="698" y="970" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-148" value="常规染色体核型分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1358" y="1110" width="169" height="30" as="geometry" />
+          <mxGeometry x="698" y="1010" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-149" value="子痫前期风险评估(孕早期)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1358" y="1150" width="169" height="30" as="geometry" />
+          <mxGeometry x="698" y="1050" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-150" value="子痫前期风险评估(孕中晚期)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1358" y="1190" width="169" height="30" as="geometry" />
+          <mxGeometry x="698" y="1090" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-151" value="产前变异位点验证检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1358" y="1229" width="169" height="30" as="geometry" />
+          <mxGeometry x="698" y="1129" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-152" value="母体污染检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1358" y="1269" width="169" height="30" as="geometry" />
+          <mxGeometry x="698" y="1169" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-153" value="MLPA/MS-MLPA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1358" y="1309" width="169" height="30" as="geometry" />
+          <mxGeometry x="698" y="1209" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-154" value="OmniSeek产前核心家系&lt;div&gt;WES检测&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1358" y="1349" width="169" height="49" as="geometry" />
+          <mxGeometry x="698" y="1249" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-155" value="JunoArray 750K" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1358" y="1408" width="169" height="30" as="geometry" />
+          <mxGeometry x="698" y="1308" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-156" value="JunoOGM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1358" y="1448" width="169" height="30" as="geometry" />
+          <mxGeometry x="698" y="1348" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-157" value="新生儿串联质谱检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="500" width="169" height="30" as="geometry" />
+          <mxGeometry x="1090" y="400" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-158" value="新生儿遗传病基因筛查专家版（专家版）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="540" width="169" height="49" as="geometry" />
+          <mxGeometry x="1090" y="440" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-159" value="NeoSeqTM新生儿&lt;div&gt;遗传病基因筛查&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="599" width="169" height="51" as="geometry" />
+          <mxGeometry x="1090" y="499" width="169" height="51" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-160" value="新生儿遗传病基因筛查&lt;div&gt;（五联检）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="660" width="169" height="51" as="geometry" />
+          <mxGeometry x="1090" y="560" width="169" height="51" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-161" value="新生儿筛查" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1794.5" y="458" width="80" height="30" as="geometry" />
+          <mxGeometry x="1134.5" y="358" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-162" value="其他产品" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1794.5" y="838" width="70" height="30" as="geometry" />
+          <mxGeometry x="1134.5" y="738" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-163" value="间期FISH检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550.5" y="619" width="169" height="30" as="geometry" />
+          <mxGeometry x="890.5" y="519" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-164" value="间期FISH快速检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550.5" y="659" width="169" height="30" as="geometry" />
+          <mxGeometry x="890.5" y="559" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-165" value="N/C/Q带检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550.5" y="700" width="169" height="30" as="geometry" />
+          <mxGeometry x="890.5" y="600" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-166" value="高分辨染色体核型分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550.5" y="740" width="169" height="30" as="geometry" />
+          <mxGeometry x="890.5" y="640" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-167" value="常规染色体核型分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550.5" y="780" width="169" height="30" as="geometry" />
+          <mxGeometry x="890.5" y="680" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-168" value="OGM检测-进阶版(单人)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550.5" y="820" width="169" height="30" as="geometry" />
+          <mxGeometry x="890.5" y="720" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-169" value="OGM检测-进阶版(家系三人)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550.5" y="860" width="169" height="30" as="geometry" />
+          <mxGeometry x="890.5" y="760" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-170" value="OGM检测-标准版(单人)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550.5" y="900" width="169" height="30" as="geometry" />
+          <mxGeometry x="890.5" y="800" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-171" value="OGM检测-标准版(夫妻)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550.5" y="941" width="169" height="30" as="geometry" />
+          <mxGeometry x="890.5" y="841" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-172" value="OGM检测-标准版(家系三人)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550.5" y="981" width="169" height="30" as="geometry" />
+          <mxGeometry x="890.5" y="881" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-173" value="OGM检测-FSHD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550.5" y="1021" width="169" height="30" as="geometry" />
+          <mxGeometry x="890.5" y="921" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-174" value="快速全基因组测序(家系)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550.5" y="1061" width="169" height="30" as="geometry" />
+          <mxGeometry x="890.5" y="961" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-175" value="全外显子组测序(单人)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550.5" y="1101" width="169" height="30" as="geometry" />
+          <mxGeometry x="890.5" y="1001" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-176" value="全外显子组测序(双人)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550.5" y="1141" width="169" height="30" as="geometry" />
+          <mxGeometry x="890.5" y="1041" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-177" value="全外显子组测序(家系三人)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550.5" y="1182" width="169" height="30" as="geometry" />
+          <mxGeometry x="890.5" y="1082" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-178" value="快速全外显子组(家系)检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550.5" y="1222" width="169" height="30" as="geometry" />
+          <mxGeometry x="890.5" y="1122" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-179" value="CNV-seq (100kb)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550.5" y="1262" width="169" height="30" as="geometry" />
+          <mxGeometry x="890.5" y="1162" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-180" value="CNV-seq (1Mb)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550.5" y="1302" width="169" height="30" as="geometry" />
+          <mxGeometry x="890.5" y="1202" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-181" value="热点变异检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550.5" y="1342" width="169" height="30" as="geometry" />
+          <mxGeometry x="890.5" y="1242" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-182" value="单基因检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550.5" y="1382" width="169" height="30" as="geometry" />
+          <mxGeometry x="890.5" y="1282" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-183" value="Panel检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550.5" y="1423" width="169" height="30" as="geometry" />
+          <mxGeometry x="890.5" y="1323" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-184" value="WES数据重分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550.5" y="1463" width="169" height="30" as="geometry" />
+          <mxGeometry x="890.5" y="1363" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-185" value="WGS数据重分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550.5" y="1503" width="169" height="30" as="geometry" />
+          <mxGeometry x="890.5" y="1403" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-186" value="线粒体基因组测序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550.5" y="1543" width="169" height="30" as="geometry" />
+          <mxGeometry x="890.5" y="1443" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-187" value="MLPA/MS-MLPA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550.5" y="1583" width="169" height="30" as="geometry" />
+          <mxGeometry x="890.5" y="1483" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-188" value="OmniSeek核心家系全外检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550.5" y="1623" width="169" height="30" as="geometry" />
+          <mxGeometry x="890.5" y="1523" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-189" value="OmniSeek全外显子组&lt;div&gt;测序检测 Singleton&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550.5" y="1664" width="169" height="44" as="geometry" />
+          <mxGeometry x="890.5" y="1564" width="169" height="44" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-190" value="OmniSeek全外显子组&lt;div&gt;测序检测 Duo&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550.5" y="1718" width="169" height="44" as="geometry" />
+          <mxGeometry x="890.5" y="1618" width="169" height="44" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-191" value="OmniSeek全外显子组&lt;div&gt;测序检测 Trio&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550.5" y="1772" width="169" height="44" as="geometry" />
+          <mxGeometry x="890.5" y="1672" width="169" height="44" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-192" value="OmniSeek全外显子组&lt;div&gt;测序检测 Quad&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550.5" y="1826" width="169" height="44" as="geometry" />
+          <mxGeometry x="890.5" y="1726" width="169" height="44" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-193" value="Junomix全基因组&lt;div&gt;测序检测&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Trio&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550.5" y="1879" width="169" height="44" as="geometry" />
+          <mxGeometry x="890.5" y="1779" width="169" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
