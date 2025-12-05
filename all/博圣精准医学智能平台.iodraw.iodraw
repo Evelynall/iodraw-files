@@ -95,94 +95,94 @@
           <mxGeometry x="-290" y="2290" width="650" height="361" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-51" value="ClinVar" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#961818;" vertex="1" parent="1">
-          <mxGeometry x="-233" y="2343" width="90" height="30" as="geometry" />
+          <mxGeometry x="-223" y="2343" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-52" value="gnomAD" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#961818;" vertex="1" parent="1">
-          <mxGeometry x="-233" y="2383" width="90" height="30" as="geometry" />
+          <mxGeometry x="-223" y="2383" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-53" value="HGMD" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#961818;" vertex="1" parent="1">
-          <mxGeometry x="-233" y="2423" width="90" height="30" as="geometry" />
+          <mxGeometry x="-223" y="2423" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-54" value="dbSNP" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#961818;" vertex="1" parent="1">
-          <mxGeometry x="-233" y="2463" width="90" height="30" as="geometry" />
+          <mxGeometry x="-223" y="2463" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-55" value="变异" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF582E;" vertex="1" parent="1">
-          <mxGeometry x="-213" y="2312" width="50" height="30" as="geometry" />
+          <mxGeometry x="-203" y="2312" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-56" value="基因" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF582E;" vertex="1" parent="1">
-          <mxGeometry x="-109" y="2312" width="50" height="30" as="geometry" />
+          <mxGeometry x="-99" y="2312" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-57" value="疾病" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF582E;" vertex="1" parent="1">
-          <mxGeometry x="-4" y="2312" width="50" height="30" as="geometry" />
+          <mxGeometry x="6" y="2312" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-58" value="病例" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF582E;" vertex="1" parent="1">
-          <mxGeometry x="101" y="2312" width="50" height="30" as="geometry" />
+          <mxGeometry x="111" y="2312" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-59" value="文献库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF582E;" vertex="1" parent="1">
-          <mxGeometry x="202" y="2312" width="60" height="30" as="geometry" />
+          <mxGeometry x="212" y="2312" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-65" value="NCBI" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#961818;" vertex="1" parent="1">
-          <mxGeometry x="-128" y="2343" width="90" height="30" as="geometry" />
+          <mxGeometry x="-118" y="2343" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-66" value="Enseuhle" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#961818;" vertex="1" parent="1">
-          <mxGeometry x="-128" y="2383" width="90" height="30" as="geometry" />
+          <mxGeometry x="-118" y="2383" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-67" value="ucsc" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#961818;" vertex="1" parent="1">
-          <mxGeometry x="-128" y="2423" width="90" height="30" as="geometry" />
+          <mxGeometry x="-118" y="2423" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-68" value="……" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#961818;" vertex="1" parent="1">
-          <mxGeometry x="-128" y="2463" width="90" height="30" as="geometry" />
+          <mxGeometry x="-118" y="2463" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-69" value="Orphanet" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#961818;" vertex="1" parent="1">
-          <mxGeometry x="-23" y="2343" width="90" height="30" as="geometry" />
+          <mxGeometry x="-13" y="2343" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-70" value="OMIM" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#961818;" vertex="1" parent="1">
-          <mxGeometry x="-23" y="2383" width="90" height="30" as="geometry" />
+          <mxGeometry x="-13" y="2383" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-71" value="GeneReviews" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#961818;" vertex="1" parent="1">
-          <mxGeometry x="-23" y="2423" width="90" height="30" as="geometry" />
+          <mxGeometry x="-13" y="2423" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-72" value="HPO" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#961818;" vertex="1" parent="1">
-          <mxGeometry x="-23" y="2463" width="90" height="30" as="geometry" />
+          <mxGeometry x="-13" y="2463" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-73" value="BiosanDB" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#961818;" vertex="1" parent="1">
-          <mxGeometry x="82" y="2343" width="90" height="30" as="geometry" />
+          <mxGeometry x="92" y="2343" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-74" value="DDD" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#961818;" vertex="1" parent="1">
-          <mxGeometry x="82" y="2383" width="90" height="30" as="geometry" />
+          <mxGeometry x="92" y="2383" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-75" value="RareBench" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#961818;" vertex="1" parent="1">
-          <mxGeometry x="82" y="2423" width="90" height="30" as="geometry" />
+          <mxGeometry x="92" y="2423" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-76" value="MyGene2" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#961818;" vertex="1" parent="1">
-          <mxGeometry x="82" y="2463" width="90" height="30" as="geometry" />
+          <mxGeometry x="92" y="2463" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-77" value="OpenAssess" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#961818;" vertex="1" parent="1">
-          <mxGeometry x="187" y="2343" width="90" height="30" as="geometry" />
+          <mxGeometry x="197" y="2343" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-78" value="指南/共识" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#961818;" vertex="1" parent="1">
-          <mxGeometry x="187" y="2383" width="90" height="30" as="geometry" />
+          <mxGeometry x="197" y="2383" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-79" value="最佳实践" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#961818;" vertex="1" parent="1">
-          <mxGeometry x="187" y="2423" width="90" height="30" as="geometry" />
+          <mxGeometry x="197" y="2423" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-80" value="SOP" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#961818;" vertex="1" parent="1">
-          <mxGeometry x="187" y="2463" width="90" height="30" as="geometry" />
+          <mxGeometry x="197" y="2463" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-81" value="……" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#961818;" vertex="1" parent="1">
-          <mxGeometry x="-23" y="2503" width="90" height="30" as="geometry" />
+          <mxGeometry x="-13" y="2503" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-82" value="MAVEDB" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#961818;" vertex="1" parent="1">
-          <mxGeometry x="82" y="2503" width="90" height="30" as="geometry" />
+          <mxGeometry x="92" y="2503" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-84" value="检测报告" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#961818;" vertex="1" parent="1">
-          <mxGeometry x="187" y="2543" width="90" height="30" as="geometry" />
+          <mxGeometry x="197" y="2543" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-85" value="语料库" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#961818;" vertex="1" parent="1">
-          <mxGeometry x="187" y="2503" width="90" height="30" as="geometry" />
+          <mxGeometry x="197" y="2503" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-86" value="……" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#961818;" vertex="1" parent="1">
-          <mxGeometry x="187" y="2583" width="90" height="30" as="geometry" />
+          <mxGeometry x="197" y="2583" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-7" value="遗传咨询" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#2F3654;" vertex="1" parent="1">
           <mxGeometry x="-217.5" y="166" width="80" height="30" as="geometry" />
@@ -470,7 +470,7 @@
           <mxGeometry x="-190.5" y="998" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-213" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-233" y="2124" width="510" height="110" as="geometry" />
+          <mxGeometry x="-220" y="2124" width="510" height="110" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-35" value="核型分析" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#3A425E;" vertex="1" parent="FIiAVE5nNBV_So9QTax6-213">
           <mxGeometry width="90" height="30" as="geometry" />
