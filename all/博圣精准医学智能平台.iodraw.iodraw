@@ -508,11 +508,11 @@
         <mxCell id="FIiAVE5nNBV_So9QTax6-192" value="OmniSeek全外显子组&lt;div&gt;测序检测 Quad&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="1">
           <mxGeometry x="-38.5" y="1722" width="169" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-193" value="Junomix全基因组&lt;div&gt;测序检测&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Trio&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-38.5" y="1775" width="169" height="44" as="geometry" />
-        </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.062;entryY=0.075;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#B58AFF;" edge="1" parent="1" source="FIiAVE5nNBV_So9QTax6-3" target="FIiAVE5nNBV_So9QTax6-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-193" value="Junomix全基因组&lt;div&gt;测序检测&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Trio&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="1">
+          <mxGeometry x="-38.5" y="1775" width="169" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
