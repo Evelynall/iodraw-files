@@ -152,7 +152,7 @@
           <mxGeometry x="-118" y="1332" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-66" value="Enseuhle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-114" y="1372" width="90" height="30" as="geometry" />
+          <mxGeometry x="-118" y="1372" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-67" value="ucsc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-114" y="1412" width="90" height="30" as="geometry" />
@@ -164,7 +164,7 @@
           <mxGeometry x="-13" y="1332" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-70" value="OMIM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-4" y="1372" width="90" height="30" as="geometry" />
+          <mxGeometry x="-13" y="1372" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-71" value="GeneReviews" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-4" y="1412" width="90" height="30" as="geometry" />
@@ -176,7 +176,7 @@
           <mxGeometry x="92" y="1332" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-74" value="DDD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="106" y="1372" width="90" height="30" as="geometry" />
+          <mxGeometry x="92" y="1372" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-75" value="RareBench" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="106" y="1412" width="90" height="30" as="geometry" />
