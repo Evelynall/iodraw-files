@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="VSGKUQD6Wmow4jQwLN0I">
-    <mxGraphModel dx="2206" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4275" dy="2038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,13 +22,13 @@
         <mxCell id="FIiAVE5nNBV_So9QTax6-23" value="基础服务层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#852D4D;" vertex="1" parent="1">
           <mxGeometry x="-380" y="1874" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-25" value="技术层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="FIiAVE5nNBV_So9QTax6-25" value="技术层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#D9D9D9;" vertex="1" parent="1">
           <mxGeometry x="-390" y="2194" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-26" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="1">
           <mxGeometry x="-280" y="2094" width="650" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-27" value="数据层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="FIiAVE5nNBV_So9QTax6-27" value="数据层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#D9D9D9;" vertex="1" parent="1">
           <mxGeometry x="-390" y="2385" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-32" value="变异致病性判读、病例查询服务、图片/PDF/Word内容解析&lt;span style=&quot;background-color: initial;&quot;&gt;服务、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;文献/指南/&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;共识搜索服务，结果咨询服务、临床试验查询服务&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
