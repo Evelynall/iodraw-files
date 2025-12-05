@@ -83,19 +83,19 @@
           <mxGeometry x="-289" y="326" width="650" height="1528" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-161" value="新生儿筛查" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF5226;" vertex="1" parent="1">
-          <mxGeometry x="195.5" y="354" width="80" height="30" as="geometry" />
+          <mxGeometry x="-195.5" y="354" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-157" value="新生儿串联质谱检测" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="1">
-          <mxGeometry x="151" y="396" width="169" height="30" as="geometry" />
+          <mxGeometry x="-240" y="396" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-158" value="新生儿遗传病基因筛查专家版（专家版）" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="1">
-          <mxGeometry x="151" y="436" width="169" height="49" as="geometry" />
+          <mxGeometry x="-240" y="436" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-159" value="NeoSeqTM新生儿&lt;div&gt;遗传病基因筛查&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="1">
-          <mxGeometry x="151" y="495" width="169" height="51" as="geometry" />
+          <mxGeometry x="-240" y="495" width="169" height="51" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-160" value="新生儿遗传病基因筛查&lt;div&gt;（五联检）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="1">
-          <mxGeometry x="151" y="556" width="169" height="51" as="geometry" />
+          <mxGeometry x="-240" y="556" width="169" height="51" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.123;entryY=0.075;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF6B9C;" edge="1" parent="1" source="FIiAVE5nNBV_So9QTax6-23" target="FIiAVE5nNBV_So9QTax6-24">
           <mxGeometry relative="1" as="geometry" />
