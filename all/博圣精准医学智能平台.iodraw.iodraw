@@ -437,7 +437,7 @@
           <mxGeometry x="197" y="2583" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-207" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-400" y="354" width="169" height="309" as="geometry" />
+          <mxGeometry x="-231" y="354" width="169" height="309" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-119" value="携带者筛查" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;fontColor=#FF5226;" vertex="1" parent="FIiAVE5nNBV_So9QTax6-207">
           <mxGeometry x="44.5" width="80" height="30" as="geometry" />
