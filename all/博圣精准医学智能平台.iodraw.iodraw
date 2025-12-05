@@ -20,7 +20,7 @@
           <mxGeometry x="-740" y="384" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-23" value="基础服务层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#852D4D;" vertex="1" parent="1">
-          <mxGeometry x="-380" y="1874" width="80" height="30" as="geometry" />
+          <mxGeometry x="-398" y="1874" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-25" value="技术层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#D9D9D9;" vertex="1" parent="1">
           <mxGeometry x="-390" y="2194" width="60" height="30" as="geometry" />
