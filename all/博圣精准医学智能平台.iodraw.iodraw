@@ -514,6 +514,12 @@
         <mxCell id="FIiAVE5nNBV_So9QTax6-20" value="……" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#3E3866;" vertex="1" parent="FIiAVE5nNBV_So9QTax6-197">
           <mxGeometry y="80" width="169" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.062;entryY=0.075;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#B58AFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-300" y="135" as="sourcePoint" />
+            <mxPoint x="-230" y="135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
