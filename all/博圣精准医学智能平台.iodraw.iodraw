@@ -88,49 +88,49 @@
         <mxCell id="FIiAVE5nNBV_So9QTax6-26" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;strokeColor=none;fillColor=#161A2B;" vertex="1" parent="1">
           <mxGeometry x="-290" y="2094" width="650" height="176" as="geometry" />
         </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-35" value="核型分析" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4A5478;" vertex="1" parent="1">
+        <mxCell id="FIiAVE5nNBV_So9QTax6-35" value="核型分析" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#3A425E;" vertex="1" parent="1">
           <mxGeometry x="-233" y="2124" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-36" value="FISH" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4A5478;" vertex="1" parent="1">
+        <mxCell id="FIiAVE5nNBV_So9QTax6-36" value="FISH" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#3A425E;" vertex="1" parent="1">
           <mxGeometry x="-128" y="2124" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-37" value="Sanger测序" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4A5478;" vertex="1" parent="1">
+        <mxCell id="FIiAVE5nNBV_So9QTax6-37" value="Sanger测序" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#3A425E;" vertex="1" parent="1">
           <mxGeometry x="-23" y="2124" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-39" value="qPCR" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4A5478;" vertex="1" parent="1">
+        <mxCell id="FIiAVE5nNBV_So9QTax6-39" value="qPCR" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#3A425E;" vertex="1" parent="1">
           <mxGeometry x="82" y="2124" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-40" value="CMA" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4A5478;" vertex="1" parent="1">
+        <mxCell id="FIiAVE5nNBV_So9QTax6-40" value="CMA" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#3A425E;" vertex="1" parent="1">
           <mxGeometry x="187" y="2124" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-41" value="OGM" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4A5478;" vertex="1" parent="1">
+        <mxCell id="FIiAVE5nNBV_So9QTax6-41" value="OGM" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#3A425E;" vertex="1" parent="1">
           <mxGeometry x="-233" y="2164" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-42" value="长读长测序" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4A5478;" vertex="1" parent="1">
+        <mxCell id="FIiAVE5nNBV_So9QTax6-42" value="长读长测序" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#3A425E;" vertex="1" parent="1">
           <mxGeometry x="-23" y="2164" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-44" value="短读长测序" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4A5478;" vertex="1" parent="1">
+        <mxCell id="FIiAVE5nNBV_So9QTax6-44" value="短读长测序" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#3A425E;" vertex="1" parent="1">
           <mxGeometry x="-128" y="2164" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-45" value="单细胞测序" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4A5478;" vertex="1" parent="1">
+        <mxCell id="FIiAVE5nNBV_So9QTax6-45" value="单细胞测序" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#3A425E;" vertex="1" parent="1">
           <mxGeometry x="82" y="2164" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-46" value="LC-MS/MS" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4A5478;" vertex="1" parent="1">
+        <mxCell id="FIiAVE5nNBV_So9QTax6-46" value="LC-MS/MS" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#3A425E;" vertex="1" parent="1">
           <mxGeometry x="-128" y="2204" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-48" value="基因组学" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4A5478;" vertex="1" parent="1">
+        <mxCell id="FIiAVE5nNBV_So9QTax6-48" value="基因组学" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#3A425E;" vertex="1" parent="1">
           <mxGeometry x="187" y="2164" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-49" value="超声" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4A5478;" vertex="1" parent="1">
+        <mxCell id="FIiAVE5nNBV_So9QTax6-49" value="超声" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#3A425E;" vertex="1" parent="1">
           <mxGeometry x="-233" y="2204" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-94" value="……" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4A5478;" vertex="1" parent="1">
+        <mxCell id="FIiAVE5nNBV_So9QTax6-94" value="……" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#3A425E;" vertex="1" parent="1">
           <mxGeometry x="-23" y="2204" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.031;entryY=0.042;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF3721;" edge="1" parent="1" source="FIiAVE5nNBV_So9QTax6-27" target="FIiAVE5nNBV_So9QTax6-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-50" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;strokeColor=none;fillColor=#4A120E;" vertex="1" parent="1">
+        <mxCell id="FIiAVE5nNBV_So9QTax6-50" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;strokeColor=none;fillColor=#3B0E0B;" vertex="1" parent="1">
           <mxGeometry x="-290" y="2290" width="650" height="361" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-51" value="ClinVar" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#AD1C1C;" vertex="1" parent="1">
