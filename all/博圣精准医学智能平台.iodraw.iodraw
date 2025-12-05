@@ -25,9 +25,6 @@
         <mxCell id="FIiAVE5nNBV_So9QTax6-25" value="技术层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-370" y="2094" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FIiAVE5nNBV_So9QTax6-27" target="FIiAVE5nNBV_So9QTax6-50">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-27" value="数据层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-370" y="2290" width="60" height="30" as="geometry" />
         </mxCell>
@@ -525,6 +522,9 @@
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-94" value="……" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4A5478;" vertex="1" parent="1">
           <mxGeometry x="-13" y="2204" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.031;entryY=0.042;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF3721;" edge="1" parent="1" source="FIiAVE5nNBV_So9QTax6-27" target="FIiAVE5nNBV_So9QTax6-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
