@@ -25,7 +25,7 @@
         <mxCell id="FIiAVE5nNBV_So9QTax6-25" value="技术层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-370" y="2194" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-26" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="FIiAVE5nNBV_So9QTax6-26" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;strokeColor=none;fillColor=#11401B;" vertex="1" parent="1">
           <mxGeometry x="-280" y="2094" width="650" height="200" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-27" value="数据层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#ffffff;" vertex="1" parent="1">
@@ -76,7 +76,7 @@
         <mxCell id="FIiAVE5nNBV_So9QTax6-49" value="超声" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-223" y="2204" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-50" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="1">
+        <mxCell id="FIiAVE5nNBV_So9QTax6-50" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-280" y="2314" width="650" height="361" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-51" value="ClinVar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
