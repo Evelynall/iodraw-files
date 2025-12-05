@@ -85,7 +85,7 @@
         <mxCell id="FIiAVE5nNBV_So9QTax6-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.077;entryY=0.085;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#9CA9FF;" edge="1" parent="1" source="FIiAVE5nNBV_So9QTax6-25" target="FIiAVE5nNBV_So9QTax6-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-26" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;strokeColor=none;fillColor=#1D2138;" vertex="1" parent="1">
+        <mxCell id="FIiAVE5nNBV_So9QTax6-26" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;strokeColor=none;fillColor=#161A2B;" vertex="1" parent="1">
           <mxGeometry x="-290" y="2094" width="650" height="176" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-35" value="核型分析" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4A5478;" vertex="1" parent="1">
