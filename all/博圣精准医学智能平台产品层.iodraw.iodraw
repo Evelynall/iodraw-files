@@ -466,6 +466,11 @@
         <mxCell id="svvM-1OO4oBZygmVYjcD-216" value="全外显子组测序(双人)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260.5" y="804" width="169" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="svvM-1OO4oBZygmVYjcD-234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="svvM-1OO4oBZygmVYjcD-217">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-217" value="全外显子组测序(家系三人)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="162" width="169" height="30" as="geometry" />
         </mxCell>
