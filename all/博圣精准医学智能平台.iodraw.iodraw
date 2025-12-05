@@ -122,10 +122,10 @@
           <mxGeometry x="-280" y="1279" width="650" height="381" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-51" value="ClinVar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="1309" width="90" height="30" as="geometry" />
+          <mxGeometry x="-250" y="1320" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-52" value="gnomAD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="1349" width="90" height="30" as="geometry" />
+          <mxGeometry x="-250" y="1360" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-53" value="HGMD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-250" y="1400" width="90" height="30" as="geometry" />
@@ -149,10 +149,10 @@
           <mxGeometry x="245" y="1290" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-65" value="NCBI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="1309" width="90" height="30" as="geometry" />
+          <mxGeometry x="-120" y="1320" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-66" value="Enseuhle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="1349" width="90" height="30" as="geometry" />
+          <mxGeometry x="-120" y="1360" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-67" value="ucsc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="1400" width="90" height="30" as="geometry" />
@@ -161,10 +161,10 @@
           <mxGeometry x="-120" y="1440" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-69" value="Orphanet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="1309" width="90" height="30" as="geometry" />
+          <mxGeometry x="-10" y="1320" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-70" value="OMIM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="1349" width="90" height="30" as="geometry" />
+          <mxGeometry x="-10" y="1360" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-71" value="GeneReviews" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="1400" width="90" height="30" as="geometry" />
@@ -173,10 +173,10 @@
           <mxGeometry x="-10" y="1440" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-73" value="BiosanDB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1305" width="90" height="30" as="geometry" />
+          <mxGeometry x="100" y="1320" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-74" value="DDD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1345" width="90" height="30" as="geometry" />
+          <mxGeometry x="100" y="1360" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-75" value="RareBench" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="1400" width="90" height="30" as="geometry" />
