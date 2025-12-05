@@ -223,54 +223,6 @@
         <mxCell id="FIiAVE5nNBV_So9QTax6-86" value="……" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#AD1C1C;" vertex="1" parent="1">
           <mxGeometry x="187" y="2583" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-209" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-240" y="998" width="169" height="714" as="geometry" />
-        </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-125" value="AccuSeer全定量代谢组" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="FIiAVE5nNBV_So9QTax6-209">
-          <mxGeometry y="40" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-126" value="遗传病扩展性携带者筛查&lt;div&gt;（消费版）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="FIiAVE5nNBV_So9QTax6-209">
-          <mxGeometry y="80" width="169" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-127" value="氨基酸质谱检测" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="FIiAVE5nNBV_So9QTax6-209">
-          <mxGeometry y="139" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-128" value="尿有机酸检测" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="FIiAVE5nNBV_So9QTax6-209">
-          <mxGeometry y="179" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-129" value="21-羟化酶缺乏症检测&lt;div&gt;（UPLC-MS/MS法）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="FIiAVE5nNBV_So9QTax6-209">
-          <mxGeometry y="220" width="169" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-130" value="先天性肾上腺皮质增生症分型辅助诊断检测" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="FIiAVE5nNBV_So9QTax6-209">
-          <mxGeometry y="281" width="169" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-131" value="血清脂肪酸质谱检测&lt;div&gt;（UPLC-MS/MS法）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="FIiAVE5nNBV_So9QTax6-209">
-          <mxGeometry y="340" width="169" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-132" value="甲基丙二酸血症/同型半胱氨酸血症质谱检测" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="FIiAVE5nNBV_So9QTax6-209">
-          <mxGeometry y="402" width="169" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-133" value="氨基酸质谱检测-遗传代谢性癫痫方向" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="FIiAVE5nNBV_So9QTax6-209">
-          <mxGeometry y="462" width="169" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-134" value="抗癫痫药物血药浓度监测" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="FIiAVE5nNBV_So9QTax6-209">
-          <mxGeometry y="523" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-135" value="吡哆醇依赖性癫痫检测" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="FIiAVE5nNBV_So9QTax6-209">
-          <mxGeometry y="564" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-136" value="叶酸代谢能力基因检测" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="FIiAVE5nNBV_So9QTax6-209">
-          <mxGeometry y="604" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-137" value="JunoArray 60K" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="FIiAVE5nNBV_So9QTax6-209">
-          <mxGeometry y="644" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-138" value="JunoArray POC" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="FIiAVE5nNBV_So9QTax6-209">
-          <mxGeometry y="684" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FIiAVE5nNBV_So9QTax6-162" value="其他产品" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;fontColor=#FF5226;" vertex="1" parent="FIiAVE5nNBV_So9QTax6-209">
-          <mxGeometry x="44.5" width="70" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-7" value="遗传咨询" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#353057;" vertex="1" parent="1">
           <mxGeometry x="-217.5" y="166" width="80" height="30" as="geometry" />
         </mxCell>
@@ -510,6 +462,51 @@
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-124" value="JunoScreen RCS&lt;div&gt;夫妻联合筛查&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="1">
           <mxGeometry x="-240" y="900" width="169" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-125" value="AccuSeer全定量代谢组" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="1038" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-126" value="遗传病扩展性携带者筛查&lt;div&gt;（消费版）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="1078" width="169" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-127" value="氨基酸质谱检测" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="1137" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-128" value="尿有机酸检测" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="1177" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-129" value="21-羟化酶缺乏症检测&lt;div&gt;（UPLC-MS/MS法）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="1218" width="169" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-130" value="先天性肾上腺皮质增生症分型辅助诊断检测" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="1279" width="169" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-131" value="血清脂肪酸质谱检测&lt;div&gt;（UPLC-MS/MS法）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="1338" width="169" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-132" value="甲基丙二酸血症/同型半胱氨酸血症质谱检测" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="1400" width="169" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-133" value="氨基酸质谱检测-遗传代谢性癫痫方向" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="1460" width="169" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-134" value="抗癫痫药物血药浓度监测" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="1521" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-135" value="吡哆醇依赖性癫痫检测" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="1562" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-136" value="叶酸代谢能力基因检测" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="1602" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-137" value="JunoArray 60K" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="1642" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-138" value="JunoArray POC" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#852A27;container=0;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="1682" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FIiAVE5nNBV_So9QTax6-162" value="其他产品" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;fontColor=#FF5226;" vertex="1" parent="1">
+          <mxGeometry x="-190.5" y="998" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
