@@ -17,7 +17,7 @@
           <mxGeometry x="-620" y="507" width="105" height="90" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-5" value="检测前" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-153" y="130" width="60" height="30" as="geometry" />
+          <mxGeometry x="-153" y="128" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-7" value="遗传咨询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-207.5" y="160" width="80" height="30" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="-118" y="200" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-11" value="检测中" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="58" y="130" width="60" height="30" as="geometry" />
+          <mxGeometry x="58" y="128" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-12" value="数据分析，变异排序、致病性判读" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-667.5" y="370" width="200" height="30" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="48" y="240" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-16" value="检测后" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="231" y="130" width="60" height="30" as="geometry" />
+          <mxGeometry x="231" y="128" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-17" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;报告解读&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="221" y="160" width="80" height="30" as="geometry" />
@@ -146,7 +146,7 @@
           <mxGeometry x="111" y="1301" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-59" value="文献库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1301" width="60" height="30" as="geometry" />
+          <mxGeometry x="212" y="1301" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-65" value="NCBI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-118" y="1332" width="90" height="30" as="geometry" />
