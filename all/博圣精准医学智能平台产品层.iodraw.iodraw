@@ -311,46 +311,46 @@
           <mxGeometry x="450" y="1147" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-165" value="AccuSeer全定量代谢组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="559" width="169" height="30" as="geometry" />
+          <mxGeometry x="68" y="1222" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-166" value="遗传病扩展性携带者筛查&lt;div&gt;（消费版）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="599" width="169" height="49" as="geometry" />
+          <mxGeometry x="68" y="1262" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-167" value="氨基酸质谱检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="658" width="169" height="30" as="geometry" />
+          <mxGeometry x="68" y="1321" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-168" value="尿有机酸检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="698" width="169" height="30" as="geometry" />
+          <mxGeometry x="68" y="1361" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-169" value="21-羟化酶缺乏症检测&lt;div&gt;（UPLC-MS/MS法）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="739" width="169" height="49" as="geometry" />
+          <mxGeometry x="68" y="1402" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-170" value="先天性肾上腺皮质增生症分型辅助诊断检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="800" width="169" height="49" as="geometry" />
+          <mxGeometry x="68" y="1463" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-171" value="血清脂肪酸质谱检测&lt;div&gt;（UPLC-MS/MS法）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="859" width="169" height="49" as="geometry" />
+          <mxGeometry x="68" y="1522" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-172" value="甲基丙二酸血症/同型半胱氨酸血症质谱检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="921" width="169" height="49" as="geometry" />
+          <mxGeometry x="68" y="1584" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-173" value="氨基酸质谱检测-遗传代谢性癫痫方向" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="981" width="169" height="49" as="geometry" />
+          <mxGeometry x="68" y="1644" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-174" value="抗癫痫药物血药浓度监测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="1042" width="169" height="30" as="geometry" />
+          <mxGeometry x="68" y="1705" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-175" value="吡哆醇依赖性癫痫检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="1083" width="169" height="30" as="geometry" />
+          <mxGeometry x="68" y="1746" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-176" value="叶酸代谢能力基因检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="1123" width="169" height="30" as="geometry" />
+          <mxGeometry x="68" y="1786" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-177" value="JunoArray 60K" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="1163" width="169" height="30" as="geometry" />
+          <mxGeometry x="68" y="1826" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-178" value="JunoArray POC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="1203" width="169" height="30" as="geometry" />
+          <mxGeometry x="68" y="1866" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-179" value="NIFTY全因1.0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="68" y="413" width="169" height="30" as="geometry" />
@@ -422,7 +422,7 @@
           <mxGeometry x="304.5" y="887" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-202" value="其他产品" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1164.5" y="519" width="70" height="30" as="geometry" />
+          <mxGeometry x="112.5" y="1182" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="svvM-1OO4oBZygmVYjcD-203" value="间期FISH检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260.5" y="282" width="169" height="30" as="geometry" />
