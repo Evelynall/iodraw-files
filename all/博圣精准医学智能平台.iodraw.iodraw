@@ -173,7 +173,7 @@
           <mxGeometry x="-13" y="2204" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-108" value="产品层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FAFAFA;" vertex="1" parent="1">
-          <mxGeometry x="-380" y="340" width="60" height="30" as="geometry" />
+          <mxGeometry x="-380" y="326" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIiAVE5nNBV_So9QTax6-109" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;fillColor=#361211;" vertex="1" parent="1">
           <mxGeometry x="-279" y="326" width="650" height="1528" as="geometry" />
